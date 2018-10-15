@@ -1,0 +1,26 @@
+{
+  "name": "git-demo-002",
+  "version": "0.0.1",
+  "description": "一个测试demo",
+  "main": "index.js",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.1.3",
+    "fullpage": "^1.4.2",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxchxq520/git-demo-002.git"
+  },
+  "author": "htp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxchxq520/git-demo-002/issues"
+  },
+  "homepage": "https://github.com/yxchxq520/git-demo-002#readme"
+}
